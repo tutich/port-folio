@@ -85,7 +85,7 @@ export const navItems = [
       title: "MERN Dashboard",
       des: "The MERN Dashboard showcases a variety of functionalities designed to manage and visualize data effectively. It integrates MongoDB for robust data storage, Express.js for server-side logic, React.js for responsive UI components, and Node.js for backend operations",
       img: "/p2.png",
-      iconLists: ["/re.svg", "/tail.svg",  ],
+      iconLists: ["/re.svg", "/tail.svg", "/node.png", "/ex.png", "/mon.png", "/mat.svg" ],
       link: "https://mern-client-hrdr.onrender.com/",
     },
     {

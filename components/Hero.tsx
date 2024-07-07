@@ -4,6 +4,7 @@ import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import { MagicButton } from "./ui/MagicButton";
 import { TiLocationArrow } from "react-icons/ti";
 
+
 export const Hero = () => {
   return (
     <div className="pb-20 pt-36">
@@ -41,7 +42,7 @@ export const Hero = () => {
             Hi, I&apos;m Peter, a Frontend Developer
           </p>
 
-          <a href="project">
+          <a href="#projects">
             <MagicButton title="View my work" icon={<TiLocationArrow  size={28}/>} position="right"/>
           </a>
         </div>
