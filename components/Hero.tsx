@@ -41,7 +41,7 @@ export const Hero = () => {
             Hi, I&apos;m Peter, a Frontend Developer
           </p>
 
-          <a href="#about">
+          <a href="project">
             <MagicButton title="View my work" icon={<TiLocationArrow  size={28}/>} position="right"/>
           </a>
         </div>

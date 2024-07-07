@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently Learning React Native",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -59,7 +59,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Do you want to start a project together?",
+      title: "Would you like to collaborate on a project together?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -71,70 +71,72 @@ export const navItems = [
   
   export const projects = [
     {
+      
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      title: "AI Image SaaS - Canva Application",
+      des: "A Real Software-as-a-Service application featuring AI capabilities, integrated payment and credits systems, built with the latest technology stack.",
+      img: "/p3.png",
+      iconLists: ["/re.svg", "/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+      link: "https://imagnify-rosy.vercel.app/",
+     
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/ui.yoom.com",
+      title: "MERN Dashboard",
+      des: "The MERN Dashboard showcases a variety of functionalities designed to manage and visualize data effectively. It integrates MongoDB for robust data storage, Express.js for server-side logic, React.js for responsive UI components, and Node.js for backend operations",
+      img: "/p2.png",
+      iconLists: ["/re.svg", "/tail.svg",  ],
+      link: "https://mern-client-hrdr.onrender.com/",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
+      title: "RentUp Real-Estate App",
+      des: "A user-friendly platform for renting properties, offering a seamless real estate experience with rentUp..",
+      img: "/p1.png",
+      iconLists: ["/re.svg", "/tail.svg", "/css.png" ],
+      link: "https://real-estate-three-orpin.vercel.app/",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "/ui.apple.com",
+      title: "Easybank Landing Page",
+      des: "An elegant and responsive landing page for Easybank, showcasing modern banking features and services...",
+      img: "/p4.png",
+      iconLists: [ "/re.svg", "/tail.svg", "/css.png"],
+      link: "https://landingpage-8v6e.vercel.app/",
     },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Working with Peter was a fantastic experience. His professionalism, promptness, and commitment to delivering outstanding results were apparent throughout our project. Peter's passion for every aspect of development is remarkable. If you want to elevate your website and boost your brand, Peter is the perfect partner ",
+        name: "Shadrack C.",
+          title: "Software Engineer - Techops",
     },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
+    // {
+    //   quote:
+    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    //   name: "Michael Johnson",
+    //   title: "Director of AlphaStream Technologies",
+    // },
+    // {
+    //   quote:
+    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    //   name: "Michael Johnson",
+    //   title: "Director of AlphaStream Technologies",
+    // },
+    // {
+    //   quote:
+    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    //   name: "Michael Johnson",
+    //   title: "Director of AlphaStream Technologies",
+    // },
+    // {
+    //   quote:
+    //     "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    //   name: "Michael Johnson",
+    //   title: "Director of AlphaStream Technologies",
+    // },
   ];
   
   export const companies = [
@@ -173,45 +175,48 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Web App Dev - Techops",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
-    {
-      id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
-    },
+    // {
+    //   id: 2,
+    //   title: "Web App Dev - Techops",
+    //   desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    //   className: "md:col-span-2", // change to md:col-span-2
+    //   thumbnail: "/exp2.svg",
+    // },
     {
       id: 3,
       title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      desc: "Took part in the dev of a web app for a client, from initial concept to deployment on app stores.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
-    {
-      id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
-    },
+    // {
+    //   id: 4,
+    //   title: " Frontend Developer",
+    //   desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    //   className: "md:col-span-2",
+    //   thumbnail: "/exp4.svg",
+    // },
   ];
   
   export const socialMedia = [
     {
       id: 1,
       img: "/git.svg",
+      link: "https://github.com/tutich"
     },
     {
       id: 2,
       img: "/twit.svg",
+      link: "https://x.com/peterrmufc"
     },
     {
       id: 3,
       img: "/link.svg",
+      link: "https://www.linkedin.com/in/peter-koinange-455494271/"
     },
   ];
