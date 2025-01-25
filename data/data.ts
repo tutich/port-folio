@@ -111,7 +111,7 @@ export const navItems = [
       quote:
         "Working with Peter was a fantastic experience. His professionalism, promptness, and commitment to delivering outstanding results were apparent throughout our project. Peter's passion for every aspect of development is remarkable. If you want to elevate your website and boost your brand, Peter is the perfect partner ",
         name: "Shadrack C.",
-          title: "Software Engineer - Techops",
+          title: "Frontend Engineer - Techops Apex",
     },
     // {
     //   quote:
